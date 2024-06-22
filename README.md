@@ -1,6 +1,6 @@
 # Student Management System
 
-<h4> <span> · </span> <a href="https://github.com/buddhirangana/Student-Management-System-2/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/buddhirangana/Student-Management-System-2/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/buddhirangana/Student-Management-System-2/issues"> Request Feature </a> </h4>
+<h4> <span> · </span> <a href="https://github.com/buddhirangana/Student-Management-System-2/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/buddhirangana/Student-Management-System-2/issues"> Request Feature </a> </h4>
 
 # :notebook_with_decorative_cover: Table of Contents
 
