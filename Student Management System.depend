@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1704733059 source:e:\bsc it assignments\prg\student management system\student management system\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+
+1702373266 source:h:\student management system\student management system\main.cpp
+	<iostream>
+	<string>
+
