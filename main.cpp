@@ -975,7 +975,7 @@ void course_fee(){
 //This function used to handle payments.
 void payment(int choice, int idnumber, char courseID, string name){
 
-	cout<<"\t================================================================================\n";
+    cout<<"\t================================================================================\n";
     cout<<"\tPayment Details             					 \n";
     cout<<"\t================================================================================\n";
     cout<<endl;
