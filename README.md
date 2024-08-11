@@ -18,6 +18,14 @@
 - Delete Records
 - Search and View Records
 
+### :dart: Team of Developers 
+- Buddhi Rangana
+- Rumesh Dhananjaya
+- Malindu Sandaruwan
+- Malaka Mithila
+- Ishara Pramudith
+- Ashinka Shanshini
+
 ## :warning: License
 
 Distributed under the no License. See LICENSE.txt for more information.
