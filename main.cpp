@@ -942,7 +942,7 @@ void grade() {
 void gpa(int idnumber) {
     float sumGradePoints, sumCredits, totalCreditsCompleted;
     cout<<"  "<<endl;
-    cout<<"\tGPA Calculation Of "<<"Student ID "<<idnumber<<endl<<endl;
+    cout<<"\tGPA Calculation of "<<"Student ID "<<idnumber<<endl<<endl;
 
     cout<<"\tEnter sum of grade point value for the full course: ";
     cin>>sumGradePoints;
